@@ -1,0 +1,25 @@
+    (60, 1),  # MIDI pitch 60, quarter note (softer tone)
+    (65, 0.5),  # MIDI pitch 65, eighth note
+    (None, 0.25),  # Rest, sixteenth note
+    (55, 1.5),  # MIDI pitch 55, dotted quarter note (softer tone)
+    (70, 0.25),  # MIDI pitch 70, sixteenth note
+    (75, 1),  # MIDI pitch 75, quarter note
+    (None, 0.5),  # Rest, eighth note
+    (80, 0.75),  # MIDI pitch 80, dotted eighth note
+    (85, 0.25),  # MIDI pitch 85, sixteenth note
+    (None, 1),  # Rest, quarter note
+    (65, 0.5),  # MIDI pitch 65, eighth note
+    (60, 0.5),  # MIDI pitch 60, eighth note (softer tone)
+    (None, 0.5),  # Rest, eighth note
+    (70, 1),  # MIDI pitch 70, quarter note
+    (75, 0.25),  # MIDI pitch 75, sixteenth note
+    (None, 0.25),  # Rest, sixteenth note
+    (55, 0.5),  # MIDI pitch 55, eighth note (softer tone)
+    (None, 0.5),  # Rest, eighth note
+    (65, 1),  # MIDI pitch 65, quarter note
+    (90, 2),  # MIDI pitch 90, half note (softer tone)
+    (None, 0.5),  # Rest, eighth note
+    (75, 1),  # MIDI pitch 75, quarter note
+    (70, 1),  # MIDI pitch 70, quarter note (softer tone)
+    (None, 0.5),  # Rest, eighth note
+    (65, 1),  # MIDI pitch 65, quarter note (softer tone)
